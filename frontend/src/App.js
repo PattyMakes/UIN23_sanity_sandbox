@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
 
-  let PROJECTID = 'DIN SANITY-PROSJEKT-ID HER'
+  let PROJECTID = '96wsgp9p'
   //Hvordan finne ID: https://lms.webtricks.blog/kurs/uin/sanity-og-groq/sette-opp-sanity-for-et-react-prosjekt
   let DATASET = 'production'
   let QUERY = encodeURIComponent('*[_type == "products"]')
