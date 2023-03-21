@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'tomato-chicken',
+  title: 'pink-wasp',
 
   projectId: '96wsgp9p',
   //Hvordan finne projectID: https://lms.webtricks.blog/kurs/uin/sanity-og-groq/sette-opp-sanity-for-et-react-prosjekt
